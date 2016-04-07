@@ -1,0 +1,21 @@
+body
+{
+	font-weight: bold;
+	background-color: #fdf5e6;	
+}
+
+.epic
+{
+	color: #006400;
+	font-family:"Calibri";
+	font-size: 60px;
+	text-align:center;
+}
+
+.p1
+{
+	font-family:"Times New Roman";
+	color: #000080;
+	font-size:20px;
+	text-align:center;
+}
